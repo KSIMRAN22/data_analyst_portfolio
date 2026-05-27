@@ -4,61 +4,48 @@ Beginner data analytics portfolio showcasing projects using Excel, SQL, Word, an
 
 ## About Me
 
-I am an aspiring Data Analyst currently building my foundation in data analytics using tools such as Excel, SQL, Word, and Google Docs. I am developing hands-on experience in working with datasets, performing basic data cleaning, and presenting insights in a structured and meaningful way.
-
-My goal is to grow into a professional Data Analyst by continuously improving my technical and analytical skills through real-world projects and consistent practice.
+Aspiring Data Analyst building practical skills in Excel and SQL with a focus on data cleaning, analysis, and reporting. Currently working on developing a strong foundation through hands-on projects and real datasets.
 
 ---
 
-## Skills (Currently Learning)
+## Skills
 
-### Data & Office Tools
-- Microsoft Excel (basic formulas, charts, tables)
-- SQL (beginner queries: SELECT, WHERE, ORDER BY)
-- Google Docs / Word (report writing and documentation)
+### Data & Analysis Tools
+- Excel (formulas, charts, basic analysis)
+- SQL (SELECT, WHERE, ORDER BY)
+- Word / Google Docs (reporting and documentation)
 
-### Upcoming Skills
-- Power BI (data visualization and dashboards)
-- Python (data analysis fundamentals)
-- Advanced SQL (JOINs, aggregations, subqueries)
-
----
-
-## Projects (Beginner Level)
-
-### 1. Sales Data Analysis (Excel)
-- Cleaned and organized raw sales dataset to improve data quality
-- Created charts and tables to identify key business trends
-- Analyzed top-performing products and monthly sales patterns
-
-### 2. SQL Practice Queries
-- Wrote beginner SQL queries using SELECT, WHERE, and ORDER BY
-- Practiced filtering, sorting, and basic data extraction
-- Explored simple aggregation concepts for analysis
-
-> More projects will be added as I continue building hands-on experience.
+### In Progress
+- Power BI (dashboards and visualization)
+- Python (data analysis basics)
+- Advanced SQL (JOINs, aggregations)
 
 ---
 
-## Learning Focus
+## Projects
 
-- Strengthening data analysis fundamentals
-- Improving SQL problem-solving skills
-- Building simple dashboards and reporting projects
-- Learning to communicate insights clearly and effectively
+### Sales Data Analysis (Excel)
+- Cleaned and structured raw sales dataset
+- Built charts to identify trends in product performance
+- Analyzed top products and monthly sales patterns
+
+### SQL Practice
+- Wrote basic queries using SELECT, WHERE, ORDER BY
+- Practiced filtering and extracting data from datasets
+- Applied basic aggregation concepts
 
 ---
 
-## Career Goals
+## Focus Areas
 
-- Build 3–5 strong portfolio projects
-- Gain proficiency in Power BI and Python
-- Develop strong business and storytelling skills with data
-- Apply for entry-level Data Analyst roles in Canada
+- Data cleaning and preparation
+- Building simple dashboards and reports
+- Writing efficient SQL queries
+- Turning raw data into business insights
 
 ---
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/simranjit-k-6b859b332
-- Email: kaursiimran7@gmail.com
+- LinkedIn: <your-link>
+- Email: <your-email>
