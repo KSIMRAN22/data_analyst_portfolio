@@ -27,16 +27,16 @@ My goal is to grow into a professional Data Analyst by continuously improving my
 ## Projects (Beginner Level)
 
 ### 1. Sales Data Analysis (Excel)
-- Cleaned and organized raw sales dataset
-- Created charts and tables to identify trends
-- Analyzed top-performing products and monthly performance patterns
+- Cleaned and organized raw sales dataset to improve data quality
+- Created charts and tables to identify key business trends
+- Analyzed top-performing products and monthly sales patterns
 
 ### 2. SQL Practice Queries
-- Wrote basic SQL queries using SELECT, WHERE, ORDER BY
-- Practiced filtering and sorting datasets
-- Explored simple data aggregation concepts
+- Wrote beginner SQL queries using SELECT, WHERE, and ORDER BY
+- Practiced filtering, sorting, and basic data extraction
+- Explored simple aggregation concepts for analysis
 
-> More projects will be added as I continue building practical experience.
+> More projects will be added as I continue building hands-on experience.
 
 ---
 
@@ -44,7 +44,7 @@ My goal is to grow into a professional Data Analyst by continuously improving my
 
 - Strengthening data analysis fundamentals
 - Improving SQL problem-solving skills
-- Building simple dashboards and reports
+- Building simple dashboards and reporting projects
 - Learning to communicate insights clearly and effectively
 
 ---
@@ -54,7 +54,7 @@ My goal is to grow into a professional Data Analyst by continuously improving my
 - Build 3–5 strong portfolio projects
 - Gain proficiency in Power BI and Python
 - Develop strong business and storytelling skills with data
-- Apply for entry-level Data Analyst roles
+- Apply for entry-level Data Analyst roles in Canada
 
 ---
 
