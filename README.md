@@ -47,5 +47,5 @@ Aspiring Data Analyst building practical skills in Excel and SQL with a focus on
 
 ## Contact
 
-- LinkedIn: <your-link>
-- Email: <your-email>
+- LinkedIn: https://www.linkedin.com/in/simranjit-k-6b859b332
+- Email: kaursiimran7@gmail.com
